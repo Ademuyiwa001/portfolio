@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: Laura
-Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Clone or download the website folder
+Unzip the folder and click on index.html to view portfolio website
+Thank you
